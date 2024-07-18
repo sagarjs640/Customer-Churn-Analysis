@@ -75,6 +75,9 @@ To set up the project, follow these steps:
 - Detailed analysis of the dataset, including descriptive statistics and visualizations.
 - Predictive models built using various algorithms (e.g., logistic regression, decision trees, random forest, etc.).
 - Model evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+  ![Screenshot (3)](https://github.com/user-attachments/assets/73144f22-5180-4b1c-9364-e649a9a5944f)
+  
+
 
 ## Contributing
 Contributions are welcome! Please create an issue or submit a pull request for any enhancements or bug fixes.
